@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "csharp.suppressHiddenDiagnostics": true,
+    "omnisharp.useModernNet": true,
+    "csharp.suppressHiddenDiagnostics": true,
+    "dotnet.codeLens.enableReferencesCodeLens": true
+}
