@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
-//SANJAY1245
 public class Program
 {
     public static void Main(string[] args)
