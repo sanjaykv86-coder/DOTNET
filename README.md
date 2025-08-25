@@ -1,2 +1,2 @@
 # DOTNET_REPO
-DOTNET project main
+DOTNET project
